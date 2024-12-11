@@ -48,7 +48,11 @@ A définir
 
 ## Contribution
 
-Merci de lire les fichiers ci après:
+<<<<<<< HEAD
+Merci de lire les fichiers suivant:
+=======
+Merci de lire les fichiers ci dessous :
+>>>>>>> 23a4a3b5816e0066ffe86ad3c4d97ffddc900805
 * [CONTRIBUTING.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CONTRIBUTING.md)
 * [CODE_OF_CONDUCT.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CONTRIBUTING.md) 
 
